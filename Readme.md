@@ -28,3 +28,7 @@ Preprocessing: Cropping, resizing (e.g., 224x224), intensity normalization
 Mean Absolute Error (MAE) in months is the primary evaluation metric, matching clinical practice.
 
 Other metrics: MSE, R²
+## Team membbers:
+https://github.com/BehrazFS <br>
+https://github.com/Alireza-Sobhdoost <br>
+https://github.com/Wnpkmi
