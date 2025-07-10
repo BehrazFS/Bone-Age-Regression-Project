@@ -1,0 +1,4 @@
+Sample predictions: [152.87396  67.06509 166.78487 135.73549 167.28238]
+Sample targets: [150.  42. 168. 132. 165.]
+Test MAE: 8.1598, Test MSE: 115.9262, R^2 Score: 0.9353
+Test RMAE: None, Test RMSE: 10.7669, Test MAPE: 0.09%
